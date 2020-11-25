@@ -1,0 +1,27 @@
+{
+  "name": "snowpack-plugin-raw-loader",
+  "version": "1.0.0",
+  "description": "This tiny Snowpack plugin will stringify wanted files so they can be loaded as modules.",
+  "main": "plugin.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akejolin/snowpack-plugin-raw-loader.git"
+  },
+  "keywords": [
+    "snowpack",
+    "snowpack-plugin",
+    "raw-loader",
+    "es-modules",
+    "stringify"
+  ],
+  "author": "akejolin@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akejolin/snowpack-plugin-raw-loader/issues"
+  },
+  "homepage": "https://github.com/akejolin/snowpack-plugin-raw-loader#readme"
+}
