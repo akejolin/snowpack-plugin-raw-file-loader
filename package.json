@@ -1,6 +1,6 @@
 {
   "name": "snowpack-plugin-raw-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This tiny Snowpack plugin will stringify wanted files so they can be loaded as modules.",
   "main": "plugin.js",
   "license": "ISC",
