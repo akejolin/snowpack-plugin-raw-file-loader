@@ -9,18 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akejolin/snowpack-plugin-raw-loader.git"
+    "url": "git+https://github.com/akejolin/snowpack-plugin-raw-file-loader.git"
   },
   "keywords": [
     "snowpack",
     "snowpack-plugin",
     "raw-loader",
+    "file-loader",
     "es-modules",
     "stringify"
   ],
   "author": "akejolin@gmail.com",
   "bugs": {
-    "url": "https://github.com/akejolin/snowpack-plugin-raw-loader/issues"
+    "url": "https://github.com/akejolin/snowpack-plugin-raw-file-loader/issues"
   },
-  "homepage": "https://github.com/akejolin/snowpack-plugin-raw-loader#readme"
+  "homepage": "https://github.com/akejolin/snowpack-plugin-raw-file-loader#readme"
 }
