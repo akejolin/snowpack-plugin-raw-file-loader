@@ -1,4 +1,4 @@
-const pkt = require('../package.json')
+const pkt = require('./package.json')
 const fs = require('fs')
 
 const defaultFileExt= ['.txt']
