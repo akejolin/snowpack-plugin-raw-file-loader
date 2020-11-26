@@ -1,4 +1,4 @@
-# snowpack-plugin-raw-loader
+# snowpack-plugin-raw-file-loader
 This tiny [Snowpack](https://www.snowpack.dev/) plugin will stringify wanted files so they can be loaded as modules. For example `.md`, `.svg` etc.
 
 
