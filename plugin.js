@@ -20,11 +20,11 @@ module.exports = function (snowpackConfig, pluginOptions) {
     resolve: {input: exts, output: [".js"]},
     async load({filePath}) {
       const fileContent = fs.readFileSync(filePath, 'utf-8');
-      const json = JSON.stringify(mdContent)
+      const json = JSON.stringify(fileContent)
         .replace(/\u2028/g, '\\u2028')
         .replace(/\u2029/g, '\\u2029');
 
-      return `export default ${fileContent};`;
+      return `export default ${json};`;
 
     },
   }
