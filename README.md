@@ -7,7 +7,7 @@ This tiny [Snowpack](https://www.snowpack.dev/) plugin will stringify wanted fil
 module.exports = {
   plugins: [
     ["snowpack-plugin-raw-file-loader", {
-      exts: [".txt"], // Add file extensions saying what files should be loaded as strings in your snowpack application. Default: '.txt'
+      exts: [".txt", ".md", ".svg", ...], // Add file extensions saying what files should be loaded as strings in your snowpack application. Default: '.txt'
     }],
   ],
 }
