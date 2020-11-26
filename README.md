@@ -13,7 +13,7 @@ module.exports = {
 }
 ```
 
-#### Usage example
+#### Usage
 ```js
 
 import someMarkdown from './some-path/some-markdown.md'
