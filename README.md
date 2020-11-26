@@ -16,7 +16,7 @@ module.exports = {
 #### Usage
 ```js
 
-import someMarkdown from './some-path/some-markdown.md'
+import someMarkdown from './some-path/some-markdown'
 
 ...
 
