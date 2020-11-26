@@ -1,0 +1,5 @@
+.git
+__mock__
+plugin.test.js
+.eslintignore
+.eslintrc.yml
