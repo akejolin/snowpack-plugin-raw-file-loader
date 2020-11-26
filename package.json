@@ -5,7 +5,7 @@
   "main": "plugin.js",
   "license": "ISC",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "lint": "eslint plugin.js"
   },
   "repository": {
